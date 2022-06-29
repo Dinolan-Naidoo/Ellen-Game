@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ellen
+  - Key
+  - Key1
+  - Key2
+  - Door1
+  - Ground
+  - EnemyBullet
+  - PopUpBox
+  - Trap
+  - MovingPlatform
+  - Door2
+  - Player1
+  - Player2
+  - Player3
+  - Projectile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Ground
+  - Ellen
+  - Spitter
+  - Teleporter
+  - Key
+  - MovingPlatform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 'Background '
+    uniqueID: 2054129643
+    locked: 0
+  - name: BackDrop
+    uniqueID: 3366006895
+    locked: 0
+  - name: Ground
+    uniqueID: 3990010353
+    locked: 0
+  - name: Plants&Objects
+    uniqueID: 3049784499
+    locked: 0
+  - name: Spitter
+    uniqueID: 1818689657
+    locked: 0
+  - name: Teleporter
+    uniqueID: 1502359503
+    locked: 0
+  - name: Key
+    uniqueID: 1606294043
+    locked: 0
+  - name: Door
+    uniqueID: 3306068717
+    locked: 0
+  - name: Particles
+    uniqueID: 1437738251
+    locked: 0
+  - name: PlantsInFrontOfGround
+    uniqueID: 491784127
+    locked: 0
+  - name: Ellen
+    uniqueID: 3694585587
+    locked: 0
